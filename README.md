@@ -1,3 +1,13 @@
+# 🚧 GarbiAI - Smart Waste Detection System (Under Development)
+
+> ⚠️ **This project is currently under active development. Some features may not be fully functional yet. Stay tuned for updates!**  
+> Last updated: April 2025
+
+---
+
+
+
+
 # ♻️ GarbiAI - Smart Waste Detection & Real-Time Cleanup System
 
 GarbiAI is an AI-powered smart waste management solution that detects, classifies, and routes garbage pickup tasks using computer vision, public reporting, and real-time notifications — helping cities become cleaner, smarter, and more responsive.
